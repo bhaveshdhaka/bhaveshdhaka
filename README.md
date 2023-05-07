@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhaveshdhaka
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning how to make a web application
+- I like to code with the help of large language models.
 
 <!---
 bhaveshdhaka/bhaveshdhaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
